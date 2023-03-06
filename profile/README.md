@@ -55,9 +55,9 @@ ref : https://velog.io/@choidongkuen/Git-Git-Flow%EA%B9%83-%ED%94%8C%EB%A1%9C%EC
 유다시티 스타일의 커밋 메세지는 크게 **제목, 본문, 꼬리말** 세가지 파트로 나뉩니다.
 또한 각 파트는 빈줄을 두어서 구분합니다 🧑🏼‍💻
 
-> type : subject (제목)
-  body : (본문)
- footer : (꼬리말)
+> type : subject (제목) <br>
+  body : (본문) <br>
+ footer : (꼬리말)<br>
 
 - type : 어떤 의도로 커밋했는지를 type 에 명시합니다.
 - subject : 최대 50글자가 넘지 않도록 하고 마침표는 찍지 않습니다. 

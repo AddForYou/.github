@@ -42,6 +42,8 @@ YouTube 의 **'엔진'** 역할을 하는 유튜버(YouTuber) 는 자신이 제�
 - develop 브랜치를 Default 브랜치로 운영합니다.
 - develop 브랜치에서 기능 단위의 feature 브랜치를 생성합니다.
 - feature 브랜치의 이름은 feature/이슈 번호로 합니다.
+        
+ref : https://velog.io/@choidongkuen/Git-Git-Flow%EA%B9%83-%ED%94%8C%EB%A1%9C%EC%9A%B0-%EB%9E%80
  
 <hr>
      

@@ -1,15 +1,9 @@
 ## AddForYou
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![image](https://user-images.githubusercontent.com/96874318/223017193-3f18c09b-eb92-405b-b1dc-aa6e029482fe.png)
+
 
 ### 🧑🏼‍💻 소개
 
@@ -22,3 +16,15 @@ YouTube 의 **'엔진'** 역할을 하는 유튜버(YouTuber) 는 자신이 제�
 만약 해당 광고 컨텐츠가 정말 필요로 하는 제품이였다면 정말 아쉽겠죠? 😅 <br>
 `AddForYou` 서비스는 이러한 현대인들을 위해 자신이 관심있어하는 유튜버 혹은 제품의 광고를 한눈에 검색할 수 있으며 알람 서비스를 받아볼 수 있습니다. <br>
 `AddForYou` 서비스를 이용하여 삶의 질을 향상시켜보세요! 🔥
+
+
+### 👩🏼‍💻
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href=""><img src="" width=100px; alt=""/><br /><sub><b>BE 팀원 : 최동근 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px; alt=""/><br /><sub><b>FE 팀원 : 유안지 </b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>

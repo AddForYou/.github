@@ -56,7 +56,9 @@ ref : https://velog.io/@choidongkuen/Git-Git-Flow%EA%B9%83-%ED%94%8C%EB%A1%9C%EC
 또한 각 파트는 빈줄을 두어서 구분합니다 🧑🏼‍💻
 
 > type : subject (제목) <br>
+<br>
   body : (본문) <br>
+<br>
  footer : (꼬리말)<br>
 
 - type : 어떤 의도로 커밋했는지를 type 에 명시합니다.

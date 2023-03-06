@@ -121,12 +121,12 @@ ref : https://velog.io/@choidongkuen/Git-Git-Flow%EA%B9%83-%ED%94%8C%EB%A1%9C%EC
 | Ref | 참고할 issue 존재 시 |
 | Related to | 해당 커밋에 관련된 이슈 번호( 아직 해결 안됨 )
 
-> **Feat[type] : 추가 조회 메소드 추가[subject]**
+> Feat[type] : 추가 조회 메소드 추가[subject]
 > 
->** 로그인 API 개발[body]**
+> 로그인 API 개발[body]
 > 
-> **Resolves: #123 [footer]**
-> **Ref: #456**
->** Related to : #100 **
+> Resolves: #123 [footer]
+> Ref: #456
+> Related to : #100 
         
 #### ref : https://velog.io/@choidongkuen/Git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%9C%A0%EB%8B%A4%EC%8B%9C%ED%8B%B0%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC

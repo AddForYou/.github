@@ -118,4 +118,4 @@ YouTube 의 **'엔진'** 역할을 하는 유튜버(YouTuber) 는 자신이 제�
 > **Ref: #456**
 >** Related to : #100 **
         
-#### ref : https://velog.io/write?id=561e1ffa-65f1-40c2-bf01-d99c211a0b34
+#### ref : https://velog.io/@choidongkuen/Git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%9C%A0%EB%8B%A4%EC%8B%9C%ED%8B%B0%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC

@@ -36,8 +36,15 @@ YouTube 의 **'엔진'** 역할을 하는 유튜버(YouTuber) 는 자신이 제�
         
  <hr>
         
-##  ✒️ 브랜치 전략
+##  ✒️ 브랜치 전략 : Git Flow 전략
         
+- Git Flow 전략을 따르되, Develop, Feature, Hotfix 브랜치로 운영합니다.
+- develop 브랜치를 Default 브랜치로 운영합니다.
+- develop 브랜치에서 기능 단위의 feature 브랜치를 생성합니다.
+- feature 브랜치의 이름은 feature/이슈 번호로 합니다.
+ 
+<hr>
+     
         
 
 

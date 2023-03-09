@@ -28,7 +28,7 @@ YouTube 의 **'엔진'** 역할을 하는 유튜버(YouTuber) 는 자신이 제�
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/choidongkuen"><img src="https://avatars.githubusercontent.com/u/96874318?v=4" width=100px; alt=""/><br /><sub><b>BE 팀원 : 최동근 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px; alt=""/><br /><sub><b>FE 팀원 : 유안지 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://user-images.githubusercontent.com/96874318/223997059-25b33b01-e502-4e2f-925e-29bf00509f8b.jpeg" width="100px; alt=""/><br /><sub><b>FE 팀원 : 유안지 </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
